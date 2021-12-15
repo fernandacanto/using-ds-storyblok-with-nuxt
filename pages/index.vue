@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <Storyblok/>
 </template>
 
 <script>
