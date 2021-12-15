@@ -1,5 +1,9 @@
 <template>
-<div style="max-width: 400px">
+<div style="max-width: 400px; margin: 0 auto">
+
+     <SbLoading type="spinner" size="x-large" color="primary" />
+
+
       <SbFormGroup
       :inline="false"
       description="Optional description for group"
